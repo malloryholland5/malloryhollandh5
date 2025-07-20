@@ -34,7 +34,11 @@ Used regression analysis to determine how well R&D spending predicts future reve
 
 ### [Fuel Efficiency Analysis](https://github.com/malloryholland5/Portfolio/blob/main/Predicting%20Fuel%20Efficiency%20(Decision%20Tree%20Regression%20and%20Linear%20Regression).pdf)
 Explored relationships between engine features and fuel economy using EDA.
-- Tools: pandas, matplotlib, seaborn
+- Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 - Skills: Data visualization, correlation analysis, EDA
 
 ---
