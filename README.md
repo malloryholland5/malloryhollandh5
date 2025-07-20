@@ -52,7 +52,7 @@ Segmented audience behavior to identify patterns in post engagement across platf
 
 ## 📇 Contact
 
-- [LinkedIn]((https://www.linkedin.com/in/malloryholland/))
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/malloryholland/)) 
 - 📄 [Download My Resume](https://github.com/malloryholland5/Portfolio/blob/main/Resume%20-%20Mallory%20Holland%2011-2024.pdf)
 - 📫 [malloryholland5@gmail.com](mailto:malloryholland5@gmail.com)
 ---
