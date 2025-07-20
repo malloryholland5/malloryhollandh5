@@ -11,7 +11,8 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ### [Housing Market – Time-on-Market Model](https://github.com/malloryholland5/Portfolio/tree/main/Housing%20Market%20-%20Time%20on%20Market)
 Predicted how long homes would stay on the market using Random Forest and Linear Regression.
-- Tools: Python (pandas, scikit-learn), matplotlib
+- Tools: Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 - Skills: EDA, model evaluation, regression modeling
 
 ---
